@@ -1,0 +1,6 @@
+## Interface: 11200
+## Title: AutoDB
+## Author: Lexie
+## Notes: Automatically /db rares and /db chests
+## Version: 1
+AutoDB.lua
