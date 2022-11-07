@@ -1,6 +1,10 @@
 ## Interface: 11200
 ## Title: AutoDB
-## Author: Lexie
-## Notes: Automatically /db rares and /db chests
-## Version: 1
+## Author: Trckster, Lexie, Refaim
+## Notes: Automatically runs any pfQuest command after login
+## Version: 2.0
+## Dependencies: pfQuest
+## SavedVariablesPerCharacter: AutoDB_AutoexecCommandsSet
+
 AutoDB.lua
+helpers.lua
